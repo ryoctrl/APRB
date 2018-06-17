@@ -14,12 +14,12 @@ OpenCV 2.0
 
 ## Usage
 	
-$ git clone https://github.com/ryoctrl/APRB.git
-$ cd APRB
-$ cp .env_default .env
-$ vi .env # .envにTwitterのAPI情報を入力
-$ vi config.ini #user = に.envに入力したAccoutNameを入力 
-$ python main.py
+	$ git clone https://github.com/ryoctrl/APRB.git
+	$ cd APRB
+	$ cp .env_default .env
+	$ vi .env # .envにTwitterのAPI情報を入力
+	$ vi config.ini #user = に.envに入力したAccoutNameを入力 
+	$ python src/main.py
 
 ## Licence
 

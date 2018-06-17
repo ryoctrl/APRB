@@ -20,11 +20,3 @@ OpenCV 2.0
 	$ vi .env # .envにTwitterのAPI情報を入力
 	$ vi config.ini #user = に.envに入力したAccoutNameを入力 
 	$ python src/main.py
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
-## Author
-
-[tcnksm](https://github.com/tcnksm)

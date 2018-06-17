@@ -9,8 +9,9 @@ Haar-like顔認識でアニメ顔を識別してTwitterのUserStreamから流れ
 1. アニメ顔が認識された場合、保存した顔像を他のディレクトリに移動しTwitterAPIにRTリクエストを送る
 
 ## Requirement
-Python 3.x(recommend: 2.6.15)
-OpenCV 2.0
+
+	Python 3.x(recommend: 3.6.15)
+	OpenCV 2.0
 
 ## Usage
 	

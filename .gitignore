@@ -1,0 +1,5 @@
+*.log
+pictures/
+*.pyc
+/.env
+*log
